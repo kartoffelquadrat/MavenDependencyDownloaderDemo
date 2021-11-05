@@ -1,6 +1,6 @@
 # Maven Dependency Resolver Demo
 
-Hands-On demo project to illustrate invokation of the [Maven Dependency Downloader].
+Hands-On demo project to illustrate invocation of the [Maven Dependency Downloader](https://github.com/Explorew/maven-dependency-downloader).
 
 ## About
 
