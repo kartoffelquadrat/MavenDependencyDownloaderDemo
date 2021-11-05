@@ -4,6 +4,9 @@
 
 target
 
+.idea
+.idea/*
+
 ### Eclipse ###
 .metadata
 bin/
