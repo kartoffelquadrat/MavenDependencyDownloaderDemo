@@ -9,18 +9,24 @@ This is a tiny demo project to illustrate how to use the library.
 
 ## Setup
 
- > **Note:** For convenience this repository contains a precompiled version of the MavenDependencyDownloader as JAR file.
+ > **Note:** For convenience this repository contains a precompiled version of the [MavenDependencyDownloader as JAR file](MavenDependencyDownloader.jar).
 
  * Add the library JAR to your classpath or register it to your local build system repo.
    * Sample registration command:
 ```bash
+   mvn install:install-file -Dfile=MavenDependencyDownloader.jar -DgroupId=yizhong.ding -DartifactId=maven-dependency-downloader -Dversion=1.1 -Dpackaging=jar -DcreateChecksum=true
 ```
    * Corresponding dependency block:  
 ```xml
+   <dependency>
+       <groupId>yizhong.ding</groupId>
+       <artifactId>maven-dependency-downloader</artifactId>
+       <version>1.1</version>
+   </dependency>
 ```
  * Run this sample program:  
 ```bash
-mvn clean exec:java
+   mvn clean exec:java
 ```
 
 ## Code
