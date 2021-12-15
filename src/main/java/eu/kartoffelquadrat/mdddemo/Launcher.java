@@ -10,7 +10,7 @@ public class Launcher {
         // Artifact for which we want to collect all dependencies:
         String groupId = "eu.kartoffelquadrat";
         String artifactId = "asyncrestlib";
-        String version = "1.5.2";
+        String version = "1.6.2";
 
         // Where to store the dependencies (as JARs)
         // tmpdir will be used if null or empty
