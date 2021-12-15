@@ -21,7 +21,7 @@ This is a tiny demo project to illustrate how to use the library.
    <dependency>
        <groupId>yizhong.ding</groupId>
        <artifactId>maven-dependency-downloader</artifactId>
-       <version>1.1</version>
+       <version>1.1.2</version>
    </dependency>
 ```
  * Run this sample program:  
