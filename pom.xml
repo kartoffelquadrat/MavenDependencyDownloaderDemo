@@ -10,7 +10,7 @@
     <dependencies>
         <dependency>
             <groupId>yizhong.ding</groupId>
-            <artifactId>maven-dependency-downloader</artifactId>
+            <artifactId>mavendependencydownloader</artifactId>
             <version>1.1.2</version>
         </dependency>
     </dependencies>
