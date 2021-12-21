@@ -12,7 +12,6 @@ This is a tiny demo project to illustrate how to use the library.
  * Follow the [build instructions of the Maven Dependency Downloader]() library.  
  (This will create a maven artefact for the library in your local maven repository.)
 
-```
  * Run this sample program:  
 ```bash
    mvn clean package exec:java
