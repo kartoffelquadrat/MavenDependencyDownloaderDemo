@@ -9,7 +9,7 @@ This is a tiny demo project to illustrate how to use the library.
 
 ## Setup
 
- * Follow the [build instructions of the Maven Dependency Downloader]() library.  
+ * Follow the [build instructions of the Maven Dependency Downloader](https://github.com/Explorew/maven-dependency-downloader#build-instructions) library.  
  (This will create a maven artefact for the library in your local maven repository.)
 
  * Run this sample program:  
